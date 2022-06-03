@@ -1,0 +1,26 @@
+.container{
+    color: white;
+    background-color: black;
+}
+#mybtn{
+    background-color: rgb(106, 232, 9);
+}
+#test-img{
+   background-color: green;
+   margin: 5rem;
+   border-radius: 30px 0px 30px 0px;
+   transition: 2s;
+}
+#test-img:hover{
+    height: 6rem;
+    width: 20rem;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.mynewimage{
+    height: 50px;
+    width: 50px;
+  
+}
